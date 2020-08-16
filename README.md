@@ -16,7 +16,6 @@ Hi! I'm Nirmal Dalmia, a Front-end Developer 🚀 from India. I use code to deve
 - 💬 Ask me about anything, I am happy to help;
 - 😄 Pronouns: He/Him;
 - ⚡ Fun fact: I've once had a near death experience😨;
-- 📫 How to reach me: nirmaldalmia17@gmail.com;
 
 <!-- ### Spotify Playing 🎧 -->
 
